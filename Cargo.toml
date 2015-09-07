@@ -1,0 +1,9 @@
+[package]
+
+name = "spans"
+version = "0.0.1"
+authors = ["Nicholas Cameron <nrc@ncameron.org>"]
+description = "Tool to spew spans"
+repository = "https://github.com/nrc/spans"
+readme = "README.md"
+license = "Apache-2.0/MIT"
